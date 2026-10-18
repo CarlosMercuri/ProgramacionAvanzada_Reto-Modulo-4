@@ -1,0 +1,4 @@
+pandas==2.2.3
+papermill==2.6.0
+jupyterlab==4.4.6
+ipykernel==6.30.1

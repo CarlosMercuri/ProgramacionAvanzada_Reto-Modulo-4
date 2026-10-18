@@ -1,0 +1,10 @@
+{
+  "parametros": {
+    "canal": "Web",
+    "fecha_inicio": "2026-01-01",
+    "fecha_fin": "2026-02-28",
+    "run_id": "web_bimestre"
+  },
+  "registros_finales": 13,
+  "venta_total": 382500.0
+}

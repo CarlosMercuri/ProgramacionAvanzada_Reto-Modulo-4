@@ -1,0 +1,8 @@
+{
+  "sistema_operativo": "Windows-11-10.0.26300-SP0",
+  "version_python": "3.12.10",
+  "version_pandas": "2.2.3",
+  "version_papermill": "2.6.0",
+  "hash_datos_csv": "f76274ba36a2cb7da850440a44d491572c4bee1e1897e421092a9e14dedd5cdd",
+  "hash_requirements": "3466c7b46cc6feac759a1ce71669517167078e0b0566eb4bfb1ec2f916543651"
+}

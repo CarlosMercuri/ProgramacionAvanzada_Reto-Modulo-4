@@ -1,0 +1,10 @@
+{
+  "parametros": {
+    "canal": "Tienda",
+    "fecha_inicio": "2026-03-01",
+    "fecha_fin": "2026-04-30",
+    "run_id": "tienda_bimestre"
+  },
+  "registros_finales": 14,
+  "venta_total": 470000.0
+}
